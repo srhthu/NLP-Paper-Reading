@@ -1,7 +1,11 @@
 # Self-supervised Learning
 - (SimCLR)  A Simple Framework for Contrastive Learning of Visual Representations. 2020. ICML.
+
+
 # OOD insights
 The ideas and insights of these papers are more important than methods.
+
+
 # Robustness
 
 # Bias
@@ -16,4 +20,6 @@ intervention / data augmentation
 
 ## Regularization and Model
 - Learn from failure
+
+
 # Equivariance & Invariance
